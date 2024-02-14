@@ -1,0 +1,46 @@
+p
+{
+    font-family:"Mali", cursive;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(224, 71, 114);
+      
+}
+
+img{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+button{
+    border-radius: 8px;
+    padding: 14px 40px;
+    font-size: 16px;
+    color: black;
+    border: 2px solid rgb(224, 71, 114);
+}
+
+button:hover {
+    background-color: rgb(224, 71, 114);
+    color: white;
+  }
+
+button:active {
+    background-color: rgb(224, 71, 114);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+button{
+display: inline; 
+justify-content: center;
+margin-left: 260px;
+
+
+
+
+}
